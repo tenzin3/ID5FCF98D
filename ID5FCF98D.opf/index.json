@@ -1,0 +1,75 @@
+{
+    "id": "b755087fe9044f818c2dd1c43eef7e49",
+    "annotation_type": "index",
+    "revision": "00001",
+    "annotations": {
+        "dc063560407646cbbc24ed52a2006280": {
+            "base": "1018.txt",
+            "Chapters": [
+                {
+                    "title": "Title",
+                    "span": {
+                        "start": 0,
+                        "end": 244
+                    }
+                },
+                {
+                    "title": "Preface",
+                    "span": {
+                        "start": 245,
+                        "end": 464
+                    }
+                },
+                {
+                    "title": "Chapters I-V",
+                    "span": {
+                        "start": 465,
+                        "end": 9851
+                    }
+                },
+                {
+                    "title": "Chapters VI-X",
+                    "span": {
+                        "start": 9852,
+                        "end": 22521
+                    }
+                },
+                {
+                    "title": "Chapters XI-XV",
+                    "span": {
+                        "start": 22522,
+                        "end": 29063
+                    }
+                },
+                {
+                    "title": "Chapters XVI-XX",
+                    "span": {
+                        "start": 29064,
+                        "end": 41273
+                    }
+                },
+                {
+                    "title": "Chapters XXI-XXV",
+                    "span": {
+                        "start": 41274,
+                        "end": 58812
+                    }
+                },
+                {
+                    "title": "Chapters XXVI-XXVII",
+                    "span": {
+                        "start": 58813,
+                        "end": 64499
+                    }
+                },
+                {
+                    "title": "Colophon",
+                    "span": {
+                        "start": 64500,
+                        "end": 64510
+                    }
+                }
+            ]
+        }
+    }
+}

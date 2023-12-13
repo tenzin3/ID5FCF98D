@@ -1,0 +1,22 @@
+{
+    "id": "ID5FCF98D",
+    "default_language": "en",
+    "source": "https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2",
+    "initial_creation_type": "input",
+    "imported": "2023-02-10 00:29:34",
+    "last_modified": "2023-02-10 00:29:34",
+    "source_metadata": {
+        "title": "N\u0101g\u0101rjuna: M\u016blamadhyamakak\u0101rik\u0101",
+        "language": "en"
+    },
+    "bases": {
+        "1018": {
+            "base_file": "1018.txt",
+            "order": 1
+        }
+    },
+    "copyright": {
+        "status": "Unknown",
+        "notice": ""
+    }
+}
